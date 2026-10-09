@@ -2,7 +2,6 @@
 
 # 👋 Hey, I'm Shweta!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Java+%7C+Python+%7C+C;HTML+%7C+CSS+%7C+JavaScript;Exploring+Data+Science" alt="Typing animation" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shwetacp20)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/)
